@@ -1,0 +1,539 @@
+[
+Intent:
+insurance.motor.what
+
+Questions:
+What is motor insurance?
+tell me about motor insurance
+explain the term motor insurance
+
+Response:
+A motor insurance is purchased for cars, trucks, motorcycles and commercial road vehicles. It is an agreement between the insurer and insured, wherein insurer agrees to give financial coverage to the vehicle and the insured in return agrees to pay premium annually.
+]
+[
+Intent: 
+insurance.motor.importance
+
+Questions:
+Is it important to have a motor insurance?
+why we need motor insurance
+why its important to have motor insurance
+importance of motor insurance
+
+Response:
+According to Motor Vehicle Act, it is mandatory that every motor vehicle plying on the road should be insured with ‘liability only cover’. It ensures that any damage done by your vehicle to another person’s property will be covered in a claim. By buying motor insurance, you can protect your vehicle from natural disasters or theft. When an insurance policy is giving you ample benefits and coverage, we don’t find any reason of not buying it.
+]
+[
+Intent: 
+insurance.motor.NCB
+
+Questions:
+What is a no claim bonus (NCB)?
+tell me about no claim bonus
+explain no claim bonus
+
+Response:
+No claim bonus (NCB) is a discount in premium offered by insurance companies if the owner of a vehicle has not made a single claim throughout the motor insurance policy term.
+]
+[
+Intent: 
+insurance.motor.covernote
+
+Questions:
+What is a cover note?
+tell me about cover note
+explain cover note
+
+Response:
+A cover note is a temporary insurance proof which is issued to a policy holder before the issuance of actual insurance document. A cover note is valid for 60 days from the date of its issuance and is replaced by an original insurance document.
+]
+[
+Intent: 
+insurance.motor.online.info
+
+Questions:
+What information do I need to submit to buy motor insurance online?
+to buy motor insurance online, what information do i need to submit
+information required to buy motor insurance online
+
+Response:
+For buying a policy online no documentation is required whatsoever. However, it is advisable to keep the previous insurance policy and RC handy at the time of buying the policy so that all information can be updated correctly in the policy form.
+]
+[
+Intent: 
+insurance.motor.exclusion
+
+Questions:
+Is there any specific exclusion in motor policy?
+
+Response:
+Motor insurance policy doesn’t offer coverage in following situations-\nNormal wear and tear\nLoss or damage caused to the vehicle due to depreciation
+]
+[
+Intent: 
+insurance.motor.IDV
+
+Questions:
+What is IDV (insured declared value)?
+tell me about IDV (insured declared value)
+what is mean by IDV (insured declared value)
+
+Response:
+IDV (insured declared value) is the maximum amount to be paid by an insurer at the time of a claim if the vehicle is a total loss or stolen. It is the sum insured and is fixed at the commencement of the policy period for each insured vehicle.
+]
+
+[
+Intent: 
+insurance.motor.IDV.calculate
+
+Questions:
+How IDV is calculated?
+IDV calculation
+
+Response:
+An IDV is calculated on the basis of the manufacturer’s listed selling price of the brand and model, which will include local duties/taxes, excluding registration and insurance.
+]
+[
+Intent: 
+insurance.motor.compulsory-excess
+
+Questions:
+What is compulsory excess?
+
+Response:
+A compulsory excess is an amount that your insurance company has decided that you will pay at the time of claim settlement. The amount varies on the basis of cubic capacity of the vehicle. For sub 1500 cc vehicles, it is Rs 1000, for vehicles above 1500CC it is Rs 2000.
+]
+[
+Intent: 
+insurance.motor.premium
+
+Questions:
+Is it possible to pay premium for the auto insurance in installments?
+can i pay premium for auto insurance in installments
+
+Response:
+No, Insurance Act 1938 does not allow you to pay premium for the auto insurance in installments. If you buy online, you can use credit card to make the entire payment and then payback it to the credit card company in installments.
+]
+[
+Intent: 
+insurance.motor.change-address
+
+Questions:
+How do I change the registration address or vehicle information on the insurance policy?
+how to change address on insurance policy
+how to change vehicle information in insurance policy
+
+
+Response:
+For any change in registration address or vehicle information, you need to submit RC copy along with a request letter. Any change will be done by an endorsement by the insurance company. For some endorsements, a policyholder may need to pay additional premium.
+]
+[
+Intent: 
+insurance.motor.claim.doc
+
+Questions:
+What documents do I need to submit at the time of claim?
+
+Response:
+You may need to submit duly filled claim form along with following documents
+]
+[
+Intent: 
+insurance.motor.v-loss
+
+Questions:
+What is total loss of a vehicle? 
+
+Response:
+Total loss means accidental damage to a vehicle where insurance company’s share is more than 75% of the IDV.
+]
+[
+Intent: 
+insurance.motor.cashless-fac
+
+Questions:
+What is cashless facility?
+
+Response:
+Cashless facility means you don’t need to pay anything for repair work and your insurance company will directly pay it to the garage. If you have signed up for the cashless facility, all you have to do is take your vehicle to the preferred workshop of the insurance company. The workshop will contact the insurer and settle the claim.
+]
+[
+Intent: 
+insurance.motor.r-policy
+
+Questions:
+What is break in renewal policy?
+
+Response:
+Break in renewal policy is one of the simplest options available in the market to renew your lapsed policy. It means you can renew your expired policy without any inspection and documentation. It is not only hassle free but also a great money saver technique.
+]
+[
+Intent: 
+insurance.motor.claim.cost
+
+Questions:
+What costs do I have to bear at the time of insurance claim?
+
+Response:
+The costs that you have to bear are salvage value, depreciation cost, compulsory deductibles and cost of consumables. Let’s know more about these costs-
+]
+[
+Intent: 
+insurance.motor.spcl.discount
+
+Questions:
+Are there any special discounts available for handicapped people?
+
+Response:
+Companies give 50% discount on the own damage premium for handicapped people, provided the vehicle has been modified for their use.
+]
+[
+Intent: 
+insurance.motor.liability
+
+Questions:
+Whats my liability if someone else is driving my vehicle at the time of accident?
+
+Response:
+Legally, anyone driving a vehicle should hold a valid driving license for that category. As the owner, it’s your responsibility to ensure that those with a valid driving license are driving your vehicle. Also ensure that no one (including you) drives the vehicle under the influence of alcohol or drugs. If the driver is intoxicated at the time of an accident then insurance company is not liable to compensate the policyholder.
+]
+[
+Intent: 
+insurance.motor.premium.residence
+
+Questions:
+Does place of residence affect premium amount?
+
+Response:
+Yes, your place of residence affects premium rates. The Indian Motor Tariff Act has categorized cities into different zones and each zone has different premium rates. Below is the zone-wise categorization for vehicles:
+]
+[
+Intent: 
+insurance.health.type
+
+Questions:
+What are the different types of health insurance?
+
+Response:
+There are various types of health insurance plans available in the market in 2016.
+]
+[
+Intent: 
+insurance.health.cost
+
+Questions:
+How much does health insurance cost?
+
+Response:
+Buying a health policy is not an easy task. There are various factors that collectively play an important role in deciding the total cost which you need to shell out to get cover. Young, healthy people need to pay far less for insurance than their old counterparts. Similarly, if you are buying a single policy then total payable would be low in comparison to a family health plan as the latter is a comprehensive plan that includes protection for the entire family, whereas the former covers only one. Similarly, corporate health insurance is cheap as it is similar to buy policies in bulk.
+]
+[
+Intent: 
+insurance.health.card
+
+Questions:
+What do you mean by health card?
+
+Response:
+It is a card that comes along with health insurance policy. Similar to the identity card, this card will allow you to avail cashless hospitalization.
+]
+[
+Intent: 
+insurance.health.accident
+
+Questions:
+What is personal accident insurance?
+
+Response:
+Personal accident insurance is an annual policy that offers compensation in the event of injury, disability or death due to an accident caused by external and violent means. An accident may include events like rail/road/air accident, injury due to cylinder burst, injury due to collision, burn injury, drowning, etc.
+]
+[
+Intent: 
+insurance.health.right-time.buy
+
+Questions:
+What is the right time to buy health policy?
+
+Response:
+ASAP- As soon as possible is the perfect answer to this question. By buying at a younger age, you can enjoy low premium rates. Moreover, for critical illnesses, every firm has its own waiting period. By buying it at the young age means you get access to health inclusion when the need actually arises. So don’t wait for any accident or a medical condition to occur before you hit a panic button and buy a health insurance policy.
+]
+[
+Intent: 
+insurance.health.benefits
+
+Questions:
+What are the various riders and benefits available in a health insurance policy?
+
+Response:
+A rider is an add-on option that can be added to a current health policy to get additional cover. There are various riders available in medical insurance sector and some of the major ones are listed below-
+]
+[
+Intent: 
+insurance.health.critical
+
+Questions:
+Why should I buy critical illness cover? 
+
+Response:
+A critical illness benefit complements the health insurance benefits. While mediclaim takes care of hospitalization expenses, critical illness cover is used to cover extra costs that may arise while seeking treatment for critical diseases like cancer, stroke, coronary heart disease, major organ failure, paralysis, etc.  Under critical illness, insurer agrees to pay a lump sum amount on diagnosis of dreadful diseases listed in the policy document. The lump sum amount that you get can be used for different purposes like paying for expensive treatment or recuperation aids, make up for the loss of income due to fall in the ability to earn, etc.
+]
+[
+Intent: 
+insurance.health.checkup
+
+Questions:
+Is medical checkup necessary before buying a policy?
+
+Response:
+Pre policy medical checkup is mostly applicable on higher age bracket or people having past medical history and opting for high sum insured. However, it is in our best interests to undergo medical test at the time of buying a policy to ensure the fast and efficient claim settlement.
+]
+[
+Intent: 
+insurance.health.durations
+
+Questions:
+What are the minimum and maximum policy durations?
+
+Response:
+You have the option to buy medical insurance either for 1 year, 2 years or 3 years. Buying it for 2 years entitles you to get discounts.
+]
+[
+Intent: 
+insurance.health.nationality
+
+Questions:
+Can my friend buy a health insurance policy if he/she is not an Indian National but living in India?
+
+Response:
+Yes, foreigners living in India can apply for health insurance policy. However, coverage would be applicable within India only.
+]
+[
+Intent: 
+insurance.health.diagnostic-charges
+
+Questions:
+Do health insurance policies cover diagnostic charges like X- ray, ultra sound or MRI?
+
+Response:
+A health insurance policy covers diagnostic charges like X ray, ultrasound, blood tests or MRI, only if a patient stays in a hospital for at least one day. Any diagnostic test which doesn’t lead to treatment or those tests which have been prescribed to outpatients are not covered.
+]
+[
+Intent: 
+insurance.health.claim.when
+
+Questions:
+When should I make a claim?
+
+Response:
+Much like car insurance, you need to assess your medical cost and compare it with bonus amount to decide whether it would be wise to make a claim or not. For instance, if you have been hospitalized for one day and total medical bills comes to Rs 5000 only. Calculate the NCB for which you are eligible. If the bonus amount is more than Rs 5000, it is advised to pay for medical bills yourself and then earn NCB.
+]
+[
+Intent: 
+insurance.health.claim-filed
+
+Questions:
+What happens to the policy after the claim is filed? 
+
+Response:
+After a claim is filed and settled, the coverage amount would be reduced by the sum that has been paid. For instance, in January, you start a health policy with Rs 10 lakh coverage and in May, you make a claim of Rs 5 lakh. The coverage available to you for June-December would be the balance amount i.e. Rs 5 lakh.
+]
+[
+Intent: 
+insurance.health.outpatient
+
+Questions:
+Do insurance policies cover outpatient expenses also?
+
+Response:
+Most of the insurance companies have a mandatory requirement of 24 hours hospitalization. However, insurance companies like ICICI Lombard, Apollo Munich, Cigna TTK and MAX Bupa cover OPD (outpatient department) expenses in their base mediclaim policy, while companies like National Insurance offer an OPD cover as a rider at an additional premium.
+]
+[
+Intent: 
+insurance.health.kids
+
+Questions:
+Can I take policy for my kid who is 3 years old?
+
+Response:
+Usually children are not covered individually in a policy but can be covered by either of the parent in their own health policy.
+]
+[
+Intent: 
+insurance.health.Apollo-Optima
+
+Questions:
+How will the no claim bonus be affected in Apollo Optima Restore plan if the claim has been made after few years? 
+
+Response:
+If you get a no claim bonus in your Apollo Optima Restore plan and a claim is made in the subsequent policy year, the company will decrease the multiplier bonus by 50% of the basic sum insured in the following policy year. However, this reduction will not be below basic sum insured.
+]
+[
+Intent: 
+insurance.health.Ayurvedic-treatment
+
+Questions:
+Is Ayurvedic treatment covered in health insurance? 
+
+Response:
+Although Ayurveda has been associated with our history since ages, but it is a bitter truth that no one wants to be hospitalized in an Ayurvedic hospital for major illnesses. Everyone prefers in-patient hospitalization in a good allopathic hospital. There are insurers which are covering Ayurveda, Unani, Sidha or Homeopathy treatment during hospitalization.
+]
+[
+Intent: 
+insurance.health.inclusions
+
+Questions:
+What are the inclusions of a health insurance policy?
+
+Response:
+Almost all health insurance policies include the following expenses-
+]
+[
+Intent: 
+insurance.health.exclusions
+
+Questions:
+What are the exclusions of a health insurance policy?
+
+Response:
+Make sure you know what is not covered by your health policy to get its optimum advantages. Following are treatments and medical expenses which do not covered by health insurance companies-
+]
+[
+Intent: 
+insurance.health.prints
+
+Questions:
+What are the fine prints which I should know before buying health policy?
+
+Response:
+A) Buying health insurance can be a painstaking process, so you should make sure you keep below things in mind before buying a health insurance policy.
+]
+[
+Intent: 
+insurance.health.pre-existing-diseases
+
+Questions:
+What are pre-existing diseases or conditions? 
+
+Response:
+Any health problem faced by one prior to seeking insurance policy is called pre-existing diseases. Insurance companies are reluctant to cover such diseases as it is a costlier affair for them.
+]
+[
+Intent: 
+insurance.health.discontinue
+
+Questions:
+What if I want to discontinue the policy?
+
+Response:
+A policyholder must give notice in writing to the insurance company for the cancellation of the policy. Insurer shall from the date of receipt of the notice may cancel the policy and retain premium for the period during which the policy has been in force with the insurance company. 
+]
+[
+Intent: 
+insurance.health.NRIs
+
+Questions:
+Can NRIs buy policy? 
+
+Response:
+Yes NRIs can buy policy, but the scope will be limited to India only. The policy will stand null and void on a foreign ground.
+]
+[
+Intent: 
+insurance.health.tax-benefits
+
+Questions:
+What are the tax benefits available on health insurance?
+
+Response:
+As per new tax slab, health insurance premiums up to Rs 25,000 will be subject to tax deductions. For senior citizens, the limit is increased from Rs 20,000 to Rs 30,000. Tax deductions for expenditure towards ailments of specific nature have increased from Rs 20,000 to Rs 80,000 in this year’s budget. Rs 25,000 deductions are allowed for differently-able people.
+]
+[
+Intent: 
+insurance.health.maturity-benefits
+
+Questions:
+Will I get maturity benefits?
+
+Response:
+No, you will not get any maturity benefit on health insurance plans. However, there are some insurance companies who are planning to offer a health saving plan, sometime in future, that will offer some maturity benefits along with insurance. We will surely keep you posted once they hit the market.
+]
+[
+Intent: 
+insurance.health.pay-mortality
+
+Questions:
+Do I need to pay mortality charges?
+
+Response:
+No, you will not pay mortality charges. Infact, mortality charge is a part of life insurance premium. When you buy a life insurance, the insurer offering it will levy a charge for providing insurance protection upon death and to cover certain expenses. In a nutshell, it is the actual cost of insurance, which is deducted by insurer every month from your policy’s account value. It doesn’t make any sense in health insurance.
+]
+[
+Intent: 
+insurance.health.sum-insured
+
+Questions:
+What is the ideal sum insured?
+
+Response:
+The ideal sum insured depends on a conglomeration of factors, like age, city, product type and lifestyle.
+]
+[
+Intent: 
+insurance.health.parent.tax-benefits
+
+Questions:
+Will I get tax benefits if I purchase health insurance for my parents?
+
+Response:
+Yes, you will be entitled to get tax deductions up to Rs 30,000 per annum under Section 80D of the Income Tax Act.
+]
+[
+Intent: 
+insurance.health.buy.online
+
+Questions:
+What are the documents required for buying health insurance online?
+
+Response:
+No documents are required for buying health insurance online.
+]
+[
+Intent: 
+insurance.health.nominee
+
+Questions:
+Why should I appoint a nominee? 
+
+Response:
+Unfortunately, if a policyholder dies during hospitalization in a non-network hospital, his nominee can process the claim and is entitled to get reimbursement from the insurer. So it is strongly advised to appoint a nominee.
+]
+[
+Intent: 
+insurance.health.grace-period
+
+Questions:
+What is grace period? Will I get a claim during the grace period if I fall sick?
+
+Response:
+Grace period is a provision given to policyholders to pay premium in next 30 days when he fails to pay it before the due date. This time period of 30 days is called grace period.  However, coverage would not be available for the period and if something was happen to you during this period, you will not get any insurance benefits. Needless to say, renewing a health plan on time is important.
+]
+[
+Intent: 
+insurance.health.hospitalization
+
+Questions:
+What is pre and post hospitalization?
+
+Response:
+= The consulting doctor conducts tests to understand the patient’s health conditions before starting the treatment. Expenses incurred on health examinations and tests prior to the hospitalization are called pre hospitalization. Usually, all expenses incurred up to 30 days prior hospitalization is covered.
+]
+[
+Intent: 
+insurance.health.claim.amount
+
+Questions:
+Will I get the entire amount of claimed expenses?
+
+Response:
+The insurance company will pay you the entire amount if it is within the sum assured and is related to the treatment mentioned in your policy document. Make sure you submit all relevant documents, like hospital bill, doctor’s prescription, etc; along with the duly filled claim form. 
+]
